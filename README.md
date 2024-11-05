@@ -2,7 +2,7 @@
 
 Welcome to the Weather Forecast App! This web application lets you check the current weather for any city around the world, displaying details such as temperature, humidity, and wind speed. 🌎✨
 
-![Weather App Screenshot](screenshot.png)
+
 
 ---
 
