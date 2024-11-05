@@ -85,7 +85,7 @@ Here’s a quick look at the Weather Forecast App interface:
 
 ## 👨‍💻 Author
 
-Created by [Your Name](https://github.com/Apurba2509).
+Created by [Apurba](https://github.com/Apurba2509).
 
 ---
 
