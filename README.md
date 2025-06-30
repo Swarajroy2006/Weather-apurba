@@ -86,9 +86,3 @@ Here’s a quick look at the Weather Forecast App interface:
 ## 👨‍💻 Author
 
 Created by [Apurba](https://github.com/Apurba2509).
-
----
-
-## 🌐 License
-
-This project is licensed under the MIT License.
